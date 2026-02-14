@@ -1,0 +1,2 @@
+generated_at_utc,market_question,market_slug,market_end_date,yes_price,spot,target,t_years,iv,model_a_prob,model_a_ci,model_b_prob,model_b_ci,combined_prob,edge_gross,direction,uncertainty,total_cost,edge_net,verdict
+2026-02-14T13:18:53.447655+00:00,"Will Bitcoin hit $150k by June 30, 2026?",will-bitcoin-hit-150k-by-june-30-2026,2026-07-01T04:00:00Z,0.0625,69401.81,150000.0,0.3708288777880447,0.49670000000000003,0.00624,0.000690246351904014,0.00042,0.0001795992395173209,0.00333,-0.05917,BUY_NO,0.000345123175952007,0.026899663380467467,0.03192521344358053,GO-ish
